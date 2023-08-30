@@ -7,7 +7,7 @@ class Student
 
     end
     def printa
-        puts  @name
+        puts "Name = #{@name}" 
     end
     def printa_email
         puts @email
